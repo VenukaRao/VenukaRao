@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VenukaRao
-- 👀 I’m interested in Learning.  .
+- 👀 I’m interested in DataScience. 
 - 🌱 I’m currently learning machine learning, deep learning, natuareal language processing basics.
 - 📫 You can reach me at venukarao82@gmail.com 
 
